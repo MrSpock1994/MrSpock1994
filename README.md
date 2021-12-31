@@ -1,7 +1,7 @@
 ### Hey there! 🚀
 
 
-- 📖 I’m currently learning Python, MySQL, VBA and JavaScript.
+- 📖 I’m currently learning Python, MySQL, VBA, JavaScript and PowerBI.
  <div>
   <a href="https://github.com/MrSpock1994">
   <img height="215em" src="https://github-readme-stats.vercel.app/api?username=MrSpock1994&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
