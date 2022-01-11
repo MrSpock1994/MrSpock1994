@@ -4,7 +4,7 @@
 - 📖 Welcome to my github! Here you will find many programs i wrote for different reasons! The idea behind this is to practice my coding skills, my
 objective is to work with Data Science/Analytics.
 - Bellow is a list of tools i'm familiar with:
- Python; R; VBA/Excel; JavaScript; SQL; Access; Google Big Query; Google Data Studio; Google cloud; Power BI;
+- Python; R; VBA/Excel; JavaScript; SQL; Access; Google Big Query; Google Data Studio; Google cloud; Power BI;
 
  <div>
   <a href="https://github.com/MrSpock1994"> 
