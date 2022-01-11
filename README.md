@@ -3,7 +3,9 @@
 
 - 📖 Welcome to my github! Here you will find many programs i wrote for different reasons! The idea behind this is to practice my coding skills, my
 objective is to work with Data Science/Analytics.
-- I’m currently learning Python, MySQL, VBA, JavaScript and PowerBI.
+- Bellow is a list of tools i'm familiar with:
+- Python; VBA; JavaScript; SQL; Google Big Query; Google Data Studio; Power BI;
+
  <div>
   <a href="https://github.com/MrSpock1994">
   <img height="215em" src="https://github-readme-stats.vercel.app/api?username=MrSpock1994&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
