@@ -7,8 +7,7 @@ objective is to work with Data Science/Analytics.
 - Python; R; VBA; JavaScript; SQL; Google Big Query; Google Data Studio; Google cloud; Power BI;
 
  <div>
-  <a href="https://github.com/MrSpock1994">
-  <img height="215em" src="https://github-readme-stats.vercel.app/api?username=MrSpock1994&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+  <a href="https://github.com/MrSpock1994"> 
    <img height="215em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSpock1994&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
