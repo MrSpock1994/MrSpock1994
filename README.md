@@ -7,6 +7,8 @@ objective is to work with Data Science/Analytics.
 - Python; R; VBA/Excel; JavaScript; SQL; Access; Google Big Query; Google Data Studio; Google cloud; Power BI;
 
 - For a better understand of my github please read instructions bellow:
+- If you want to find information about data analysis projects go to the jupyter web repositories
+- If you want to see automatization programs i did using VBA go the VBA_projects repositores
 
  <div>
   <a href="https://github.com/MrSpock1994"> 
