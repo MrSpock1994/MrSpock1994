@@ -4,7 +4,7 @@
 objective is to work with Data Science/Analytics.
 - List of tools i'm familiar with:
 - Python; R; VBA/Excel; JavaScript; SQL; Access; Google Big Query; Google Data Studio; Google cloud; Power BI;
-- For a better understand of my github please read instructions bellow (also check the READ.ME in each repositorie):
+- For a better understand of my github please read instructions bellow (also check the READ.ME in each repository):
 - If you want to find information about data analysis projects go to the jupyter notebook repositories;
 - If you want to see automatization programs i did using VBA go the projects_VBA repositories;
 - The other repositories containg Python programs are basically about everything, just to practice my coding skills;
