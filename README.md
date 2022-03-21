@@ -1,7 +1,6 @@
 ### Hey there! 🚀
 
-- 📖 Welcome to my github! Here you will find many programs i wrote for different reasons! The idea behind this is to practice my coding skills, my
-objective is to work with Data Science/Analytics.
+- 📖 Welcome to my github! Here you will find many programs i wrote for different reasons! The idea behind this is to practice my coding skills.
 - List of tools i'm familiar with:
 - Python; R; VBA/Excel; SQL; Access; Google Big Query; Google Data Studio; Google cloud; Power BI;
 - For a better understand of my github please read instructions bellow (also check the READ.ME in each repository):
